@@ -1,5 +1,8 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm K Vinaykumar</h1><br><h3 align="center">Java Full Stack Developer (Backend-focused)</h3><br><br><p align="center"><br>  <img src="https://avatars.githubusercontent.com/vinay-554" width="180" /><br></p><br><br>## 👤 About Me<br>🔭 I’m currently working on Java backend projects using Spring Boot  <br>👯 I’m looking to collaborate on Java & Spring Boot projects  <br>🤝 I’m looking for help with system design  <br>🌱 I’m currently learning advanced Spring Boot & API security  <br>💬 Ask me about Java, SQL & backend development  <br>⚡ Fun fact: I enjoy turning ideas into backend logic 🚀<br>
+<h1 align="center">Hi 👋, I'm K Vinaykumar</h1><br><h3 align="center">Java Full Stack Developer (Backend-focused)</h3><br><br><p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216658121-9f2b1b91-5fd0-4d45-9b90-cc45d7e7b1c6.gif" width="260" />
+</p>
+<br><br>## 👤 About Me<br>🔭 I’m currently working on Java backend projects using Spring Boot  <br>👯 I’m looking to collaborate on Java & Spring Boot projects  <br>🤝 I’m looking for help with system design  <br>🌱 I’m currently learning advanced Spring Boot & API security  <br>💬 Ask me about Java, SQL & backend development  <br>⚡ Fun fact: I enjoy turning ideas into backend logic 🚀<br>
 
 
 ## 🌐 Socials:
